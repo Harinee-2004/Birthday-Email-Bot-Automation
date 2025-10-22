@@ -1,0 +1,164 @@
+{
+	"background_image_paths": [
+		"background_birthday_1.png",
+		"background_birthday_2.png",
+		"background_birthday_3.png"
+	],
+	"output_directory": "generated_cards/",
+	"email_config": {
+		"sender_email": "your_email@example.com",
+		"sender_password": "your_app_password",
+		"smtp_server": "smtp.gmail.com",
+		"smtp_port": 587
+	},
+	"image_positions": {
+		"one_employee": [
+			{
+				"id": 1,
+				"x": 250,
+				"y": 200,
+				"width": 300,
+				"height": 300,
+				"name_font_size": 60,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 30
+			}
+		],
+		"two_employees": [
+			{
+				"id": 1,
+				"x": 100,
+				"y": 200,
+				"width": 250,
+				"height": 250,
+				"name_font_size": 50,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 20
+			},
+			{
+				"id": 2,
+				"x": 450,
+				"y": 200,
+				"width": 250,
+				"height": 250,
+				"name_font_size": 50,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 20
+			}
+		],
+		"three_employees": [
+			{
+				"id": 1,
+				"x": 300,
+				"y": 100,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 40,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 15
+			},
+			{
+				"id": 2,
+				"x": 100,
+				"y": 400,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 40,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 15
+			},
+			{
+				"id": 3,
+				"x": 500,
+				"y": 400,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 40,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 15
+			}
+		],
+		"four_employees": [
+			{
+				"id": 1,
+				"x": 100,
+				"y": 100,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 35,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 10
+			},
+			{
+				"id": 2,
+				"x": 400,
+				"y": 100,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 35,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 10
+			},
+			{
+				"id": 3,
+				"x": 100,
+				"y": 400,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 35,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 10
+			},
+			{
+				"id": 4,
+				"x": 400,
+				"y": 400,
+				"width": 200,
+				"height": 200,
+				"name_font_size": 35,
+				"name_text_color": [
+					0,
+					0,
+					0
+				],
+				"name_text_y_offset": 10
+			}
+		]
+	}
+}
